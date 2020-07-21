@@ -41,6 +41,7 @@ In `index.html`, provide a `<link>` tag which correctly sources the CSS file
 located in this directory. The `<link>` tag will link to our file with an
 `href` attribute, like so:
 
+
 ```HTML
 <link rel="stylesheet" href="relative path to CSS file">
 ```
