@@ -4,7 +4,7 @@ body {background:#00b3e6;
 }
 
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
-div {
+div {width:700px;
   /* Your code here! */
 }
 
